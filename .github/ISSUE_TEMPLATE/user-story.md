@@ -14,7 +14,7 @@ assignees: ''
   - Voor wie bouwen we dit?
   - Wat proberen ze te bereiken?
   - Wat is het algemene voordeel dat ze proberen te behalen? Hoe past dit in het grotere geheel?
-- Je kunt het volgende format gebruiken voor user stories: "Als een <type gebruiker>, wil ik <een taak uitvoeren> zodat ik <een doel kan bereiken>."
+- Je kunt het volgende format gebruiken voor user stories: "Als een (type gebruiker), wil ik (een taak uitvoeren) zodat ik (een doel kan bereiken)."
 
 # Linked Tasks
 - Voer gelinkte taken hier in met behulp van het #-teken
@@ -32,4 +32,4 @@ assignees: ''
 # Acceptance Criteria
 - Beschrijf de voorwaarden waaraan het softwareproduct moet voldoen om geaccepteerd te worden door een gebruiker, klant of andere belanghebbende.
 - De acceptatiecriteria moeten testbaar zijn en fungeren als testrichtlijnen voor ontwikkelaars.
-- Acceptatiecriteria moeten het volgende format gebruiken: "Gegeven <een pre-conditie>, als <een actie>, dan <een resultaat>."
+- Acceptatiecriteria moeten het volgende format gebruiken: "Gegeven (een pre-conditie), als (een actie), dan (een resultaat)."
